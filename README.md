@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **react, react-native, nodejs, typescript,javascript**
 
-- 📫 How to reach me **mrsallu881@gmail.com**
+- 📫 How to reach me **muhammad.s.developer@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1WVB_gaSqdaB5L4RpqfXkRTyijDJX3eIA/view?usp=share_link](https://drive.google.com/file/d/1WVB_gaSqdaB5L4RpqfXkRTyijDJX3eIA/view?usp=share_link)
 
